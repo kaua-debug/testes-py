@@ -1,5 +1,5 @@
-vendas = 10000
-meta = 7500
+vendas = 1000
+meta = 500
 
 if vendas >= meta:
     bonus = 100 
