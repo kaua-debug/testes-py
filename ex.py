@@ -1,5 +1,9 @@
-vendas = 1000
-meta = 500
+# Criando variaveis e armazenando Dados..
 
-if vendas >= meta:
-    bonus = 100 
+nome = 'kauã'
+idade = 16
+altura = 1.80
+
+print(nome)
+print(idade)
+print(altura)
